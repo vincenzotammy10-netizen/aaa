@@ -1,0 +1,9 @@
+{
+  "name": "Chaite - JARVIS Nepali AI Mobile Assistant",
+  "description": "Futuristic JARVIS-style audio-to-audio AI assistant for mobile named Chaite with Nepali female voice, real-time web search, reminders, device controls, and holographic HUD.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
